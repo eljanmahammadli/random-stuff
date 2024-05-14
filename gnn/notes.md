@@ -27,3 +27,6 @@ We can represent the GNN in a adjacency matrix where each point would be stored 
 ## Check later:
 - Isomorphic graphs
 - Message-passing
+
+
+## Seq-HyGAN: Sequence Classification via Hypergraph Attention Network
